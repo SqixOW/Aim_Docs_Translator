@@ -18,4 +18,8 @@
 
 플레이리스트는 "C:\Program Files (x86)\Steam\steamapps\common\FPSAimTrainer\FPSAimTrainer\Saved\SaveGames\Playlists" 에 넣으시면 됩니다.
 
+해당 문서들에 대한 번역은 전부 저작권자에게 허가를 받았으며, 번역본 및 원본의 모든 저작권은 해당 저작자에게 있습니다.
+
 감사합니다.
+
+
