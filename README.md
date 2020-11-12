@@ -13,6 +13,8 @@
 &nbsp;&nbsp;<a href="https://docs.google.com/document/d/1vHiQRZMBJlmI69-SgHm3i0eS5ALfq2hEu-ZPyvC6ycE/edit#heading=h.820dvgytpdsi">⊙ Sparky Benchmark</a><br>
 &nbsp;&nbsp;<a href="https://docs.google.com/document/d/1d1FY1qbwrgdj2K1wmhktbdcgG0ybeK3YJSeZ49yraW4/edit">⊙ Sini & AIMER7 - Issue Specific Aim Training Routines</a><br>
  </ul>
+&nbsp;&nbsp;<a href="https://www.dropbox.com/s/w316s768shjissf/Tammas%27%20Routine%20Addendum.pdf?dl=0">⊙ Tammas - Aim Training Routine </a><br>
+ </ul>
 
 번역에 오류가 있거나 개선할만한 사항이 있으면 언제든 Issue에 올려주시기 바랍니다.
 
