@@ -4,7 +4,7 @@
 <ul> 
 <b>1. 현재까지 번역된 내용(링크 : 원문)</b><br>
 &nbsp;&nbsp;<a href="https://www.dropbox.com/s/vaba3potfhf9jy1/KovaaK%20aim%20workout%20routines.pdf?dl=0">⊙ AIMER7 - Aim workout routines with KovaaK's FPS Aim Trainer</a><br>
-&nbsp;&nbsp;<a href="https://www.dropbox.com/s/sggvgbwpz9e5bih/Strafe%20Aiming%20101.pdf?dl=0">⊙ AIMER7 - Strafe 101</a>
+&nbsp;&nbsp;<a href="https://www.dropbox.com/s/sggvgbwpz9e5bih/Strafe%20Aiming%20101.pdf?dl=0">⊙ AIMER7 - Strafe 101</a><br>
 &nbsp;&nbsp;<a href="https://www.dropbox.com/s/w316s768shjissf/Tammas%27%20Routine%20Addendum.pdf?dl=0">⊙ Tammas - Aim Training Routine </a><br>
 
 <b>2. 향후 번역할 내용(링크 : 원문)</b><br>
